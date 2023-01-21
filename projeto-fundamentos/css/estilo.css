@@ -1,0 +1,136 @@
+@charset "UTF-8";
+
+body, html{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;   
+    height: 100%;
+}
+
+.principal{
+    width: 100vw;
+    margin: 20px auto;    
+}
+
+.header-top{
+    background-color: #162028;
+    width: 90vw;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;  
+    margin: 10px auto 0;
+}
+.logotipo{
+    height: 35px;
+    
+    padding: 100px;
+}
+.header-nav{
+    
+}
+.header-nav ul{
+    margin-right: 30px;
+}
+.header-nav ul li{
+    display: inline-block;
+    height: 100%;
+}
+.header-nav ul li a{
+    text-decoration: none;
+    color: #fdfdfd;
+    margin-left: 8px;
+    padding: 8px;
+}
+.header-nav ul li a:hover{
+    background-color: rgb(27, 27, 27);
+    transition: .5s;
+    border-radius: 5px;
+}
+
+.div-image{
+    text-align: center;
+}
+.image-header{
+    width: 90vw;
+}
+
+.portfolio{
+    width: 90vw;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.7;
+}
+
+.gallery{
+    width: 90vw;
+    height: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center; 
+    
+    
+}
+.gallery-card img{
+    box-shadow: 2px 2px 10px rgba(128, 128, 128, 0.466);
+}
+.gallery-title{
+    font-weight: bold;
+    text-transform: uppercase;
+    
+    margin-bottom: 1px;
+}
+.gallery-text{
+    letter-spacing: 2px;
+    
+}
+
+.about{
+    background: #003d52 url(../imagens/bg_detalhe.png);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: contain;
+    width: 90vw;
+    
+    margin: 60px auto 30px;
+
+    padding: 50px 200px 50px 35px;
+    box-sizing: border-box;
+
+    color: white;
+    text-align: left;
+}
+.about h2{
+    text-transform: uppercase;
+}
+.about p{
+    width: 70%;
+    line-height: 1.5;
+}
+
+.contact{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 0;
+}
+.maps{
+    text-align: center;
+}
+.maps iframe{
+    width: 90vw;
+    margin-top: 25px;
+}
+
+.rodape{
+    background-color: #162028;;
+    text-align: center;
+    padding-top: 20px;
+    height: 50px;
+    margin-top: 20px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
