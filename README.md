@@ -37,8 +37,8 @@
  
  ▪️ Projeto Responsivo - Trabalha conceitos de responsividade para telas de celular, tablet e desktop. Com mudanças de posicionamento de elementos de uma tela para a outra.<br>
  <br>
- ✅ Media Query<br>
-	✅ Display Grid<br>
+ ✅ Media Queries<br>
+ ✅ Display Grid<br>
  <br>
  O projeto pode ser visualização pelo link abaixo:<br>
  <a href="https://augustodantasdv.github.io/html_css-Udemy/projeto-responsivo/index.html">https://augustodantasdv.github.io/html_css-udemy/projeto-responsivo/index.html</a>
