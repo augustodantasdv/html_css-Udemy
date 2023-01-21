@@ -12,7 +12,9 @@
  ✅ Float<br><br>
  
  O projeto pode ser visualização pelo link abaixo:<br>
- <a href="https://augustodantasdv.github.io/html_css-udemy/projeto-fundamentos/index.html">https://augustodantasdv.github.io/html_css-udemy/projeto-fundamentos/index.html</a>
+ <a href="https://augustodantasdv.github.io/html_css-Udemy/projeto-fundamentos/index.html">https://augustodantasdv.github.io/html_css-udemy/projeto-fundamentos/index.html</a>
+ 
+ 
 
 
 
