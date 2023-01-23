@@ -41,7 +41,7 @@
  ✅ Display Grid<br>
  <br>
  O projeto pode ser visualização pelo link abaixo:<br>
- <a href="https://augustodantasdv.github.io/html_css-Udemy/projeto-responsivo/index.html">https://augustodantasdv.github.io/html_css-udemy/projeto-responsivo/index.html</a>
+ <a href="https://augustodantasdv.github.io/html_css-Udemy/projeto-responsivo/index.html">https://augustodantasdv.github.io/html_css-Udemy/projeto-responsivo/index.html</a>
  
  
 
